@@ -516,7 +516,7 @@ header div ul li a:hover{
     .hamburguesa {
         display: block;
         margin-right: 10px;
-        font-size: 50px;
+        font-size: 40px;
         cursor: pointer;
         opacity: 1;
     }
@@ -546,8 +546,9 @@ header div ul li a:hover{
     }
     #main-top .titulo-main{
         position: relative;
-        top: 30px;
+        top: 70px;
         font-size: 40px;
+        padding: 0 0 60px 0;
     }
     .animated{
         display: none;
@@ -575,7 +576,7 @@ header div ul li a:hover{
     .Skill-tittle h2 {
         font-size: 40px;
         position: relative;
-        top: -25px;
+        top: 7px;
         padding: 0%;
     }
     #portfolio h2 {
